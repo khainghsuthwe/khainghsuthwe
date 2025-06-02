@@ -4,11 +4,12 @@ I am Khaing Hsu Thwe, a software engineer, from Myanmar. I have a passion for cr
 
 ## Skills
 - Programming Languages: Python, JavaScript
-- Frameworks: React, Node.js, Langchain
-- Tools: Git, Docker
-- Specializations: Computer Vision, API Development, NLP
+- Frameworks & Libraries: Django, Flask, Fast, React, Node.js, Langchain
+- Tools: Git, Docker, Jira
+- Specializations: Computer Vision, API Development, Backend, NLP
+- Cloud: AWS 
 
-- 🌱 I’m currently polishing my skills on RAG (Retrieval Augmented Generation) and NextJs
+- 🌱 I’m currently polishing my skills on RAG (Retrieval Augmented Generation) and cloud computing technologies
 
 ## Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atom017) 
